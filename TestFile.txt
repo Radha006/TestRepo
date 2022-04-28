@@ -1,0 +1,4 @@
+Clone the repo
+
+1. Pull -> git pull
+2. Make changes -> Add, remove and modify files
